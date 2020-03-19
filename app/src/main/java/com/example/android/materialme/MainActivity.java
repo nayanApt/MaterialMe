@@ -1,5 +1,6 @@
 package com.example.android.materialme;
 
+import android.content.res.TypedArray;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
@@ -28,10 +29,12 @@ public class MainActivity extends AppCompatActivity {
     private void initializeData() {
         String[] sportsList = getResources().getStringArray(R.array.sports_titles);
         String[] sportsInfo = getResources().getStringArray(R.array.sports_info);
+        TypedArray sportsImageResources = getResources().obtainTypedArray(R.array.sports_images);
         mSportsData.clear();
-        for(int i=0;i<sportsList.length;i++){
-            mSportsData.add(new Sport(sportsList[i],sportsInfo[i]));
+        for(int i = 0; i < sportsList.length; i++){
+            mSportsData.add(new Sport(sportsList[i], sportsInfo[i], sportsImageResources.getResourceId(i, 0)));
         }
+        sportsImageResources.recycle();
         mAdapter.notifyDataSetChanged();
     }
 }

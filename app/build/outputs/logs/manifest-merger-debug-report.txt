@@ -6,6 +6,7 @@ INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\ma
 INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\4a886c807e8edea08ea5abca46aae16c\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\a514388b9b5c16c05dec6c760f0704bc\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\bff4fdb2243a8c5cf26faab784684ef3\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\1d02053abb517b04d784a6993e86c78b\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\e4957b72a9bb1ad0983765c428f6245e\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\b4715ab37fd98c82f241b05944074a38\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
@@ -67,6 +68,8 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nayan\.gradle\cac
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\4a886c807e8edea08ea5abca46aae16c\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\a514388b9b5c16c05dec6c760f0704bc\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\a514388b9b5c16c05dec6c760f0704bc\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\bff4fdb2243a8c5cf26faab784684ef3\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\bff4fdb2243a8c5cf26faab784684ef3\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\1d02053abb517b04d784a6993e86c78b\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\1d02053abb517b04d784a6993e86c78b\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\e4957b72a9bb1ad0983765c428f6245e\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
