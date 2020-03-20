@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
+import android.view.View;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -55,5 +56,9 @@ public class MainActivity extends AppCompatActivity {
         }
         sportsImageResources.recycle();
         mAdapter.notifyDataSetChanged();
+    }
+
+    public void resetSports(View view) {
+        initializeData();
     }
 }
