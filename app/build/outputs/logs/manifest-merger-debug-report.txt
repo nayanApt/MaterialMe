@@ -1,75 +1,92 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
-INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
-INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
-INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
+ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\8a05ba3346a75a1e1cef8a02778ffb94\design-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\4a886c807e8edea08ea5abca46aae16c\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\a514388b9b5c16c05dec6c760f0704bc\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\bff4fdb2243a8c5cf26faab784684ef3\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\c72a104e8b77528811b9c4ab74fae6c5\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\1d02053abb517b04d784a6993e86c78b\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\e4957b72a9bb1ad0983765c428f6245e\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\b4715ab37fd98c82f241b05944074a38\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\b2129cc24becc04eaad0552c72a58265\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\6c8ce84ca28c08f6b4cb673fceba90d0\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\dcffe4005a72bb01a83a1ad0b05cd891\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\010763d8b4ce1fd4d414fbee2cd9a080\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\25f768d193c32cb3748b68e09e03bc81\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\dda3fbc64b29cf690216f337bc58ec4c\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\2d83aa17362795e30f5ffb9ba9a700fc\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\221e784dd3940577f71b524955a9d156\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\0bba5566df70173770edc14814cfa611\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
-INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
-INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:5-45
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
 		INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:1-19:12
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:1-21:12
 		INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:4:5-17:19
+ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:7:9-41
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-43
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:5:9-35
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:9:9-40
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:19-49
 activity#com.example.android.materialme.MainActivity
-ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:9-16:20
+ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:10:19-77
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:11:13-15:29
+ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:17-69
+ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:12:25-66
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:17-77
+ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:14:27-74
+		ADDED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Nayan\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\f0b606c9fced75b8c2c36f0323cf799c\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\8a05ba3346a75a1e1cef8a02778ffb94\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\8a05ba3346a75a1e1cef8a02778ffb94\design-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\4a886c807e8edea08ea5abca46aae16c\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\4a886c807e8edea08ea5abca46aae16c\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\a514388b9b5c16c05dec6c760f0704bc\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\a514388b9b5c16c05dec6c760f0704bc\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\bff4fdb2243a8c5cf26faab784684ef3\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\bff4fdb2243a8c5cf26faab784684ef3\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\c72a104e8b77528811b9c4ab74fae6c5\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\c72a104e8b77528811b9c4ab74fae6c5\support-v4-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\1d02053abb517b04d784a6993e86c78b\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\1d02053abb517b04d784a6993e86c78b\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\e4957b72a9bb1ad0983765c428f6245e\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
@@ -80,6 +97,10 @@ MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Nayan\.grad
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\b2129cc24becc04eaad0552c72a58265\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\6c8ce84ca28c08f6b4cb673fceba90d0\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\6c8ce84ca28c08f6b4cb673fceba90d0\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\dcffe4005a72bb01a83a1ad0b05cd891\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\dcffe4005a72bb01a83a1ad0b05cd891\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\010763d8b4ce1fd4d414fbee2cd9a080\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\010763d8b4ce1fd4d414fbee2cd9a080\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\25f768d193c32cb3748b68e09e03bc81\support-compat-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\25f768d193c32cb3748b68e09e03bc81\support-compat-27.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Nayan\.gradle\caches\transforms-2\files-2.1\dda3fbc64b29cf690216f337bc58ec4c\livedata-core-1.1.0\AndroidManifest.xml:20:5-44

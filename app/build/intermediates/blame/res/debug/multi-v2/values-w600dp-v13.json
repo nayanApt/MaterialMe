@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Nayan\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nayan\\AndroidStudioProjects\\MaterialMe-Starter\\app\\src\\main\\res\\values-w600dp\\styles.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "228,57",
+                        "endLines": "7,5",
+                        "endColumns": "52,12",
+                        "endOffsets": "313,222"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,136",
+                        "endLines": "2,5",
+                        "endColumns": "80,12",
+                        "endOffsets": "131,290"
+                    }
+                }
+            ]
+        }
+    ]
+}
